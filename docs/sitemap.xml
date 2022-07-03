@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/bianchiaccountants/services/consultancy/</loc>
+    <lastmod>2018-11-28T15:14:54-10:00</lastmod>
+  </url><url>
     <loc>/bianchiaccountants/services/individuals/</loc>
     <lastmod>2018-11-18T12:33:46-10:00</lastmod>
   </url><url>
-    <loc>/bianchiaccountants/services/selfemployed/</loc>
+    <loc>/bianchiaccountants/services/accounting/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>/bianchiaccountants/services/consultancy/</loc>
-    <lastmod>2018-11-28T15:14:54-10:00</lastmod>
+    <loc>/bianchiaccountants/services/selfemployed/</loc>
   </url><url>
     <loc>/bianchiaccountants/services/ownermanaged/</loc>
     <lastmod>2018-11-18T12:33:46-10:00</lastmod>

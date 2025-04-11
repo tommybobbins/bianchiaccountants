@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Bianchi Chartered Accountants</title>
-    <link>/bianchiaccountants/pages.html</link>
+    <link>/bianchiaccountants/pages/</link>
     <description>Recent content in Pages on Bianchi Chartered Accountants</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,16 +10,16 @@
     <atom:link href="/bianchiaccountants/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>/bianchiaccountants/about.html</link>
+      <link>/bianchiaccountants/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>/bianchiaccountants/about.html</guid>
+      <guid>/bianchiaccountants/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Your Company Growth</title>
-      <link>/bianchiaccountants/growth.html</link>
+      <link>/bianchiaccountants/growth/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>/bianchiaccountants/growth.html</guid>
+      <guid>/bianchiaccountants/growth/</guid>
       <description></description>
     </item>
   </channel>
